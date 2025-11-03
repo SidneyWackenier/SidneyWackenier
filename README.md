@@ -22,7 +22,7 @@ Users can browse movies, filter by genre, view details, read and post reviews, a
 - **Tech:** React Native, Expo Router, AsyncStorage  
 - **Focus:** API integration, mobile UI/UX  
 
-🔗 [View project](filmdb-five.vercel.app)
+🔗 [View project](https://github.com/SidneyWackenier/filmdb)
 
 ---
 
