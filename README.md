@@ -22,7 +22,7 @@ Users can browse movies, filter by genre, view details, read and post reviews, a
 - **Tech:** React Native, Expo Router, AsyncStorage  
 - **Focus:** API integration, mobile UI/UX  
 
-🔗 [View project (coming soon)](#)
+🔗 [View project](filmdb-five.vercel.app)
 
 ---
 
@@ -32,7 +32,7 @@ Key information about the warehouse is displayed through graphs and stat cards.
 - **Tech:** VegaLite, MongoDB, Node.js/Express.js  
 - **Focus:** Full-stack development, data visualistation 
 
-🔗 [View project.](https://github.com/SidneyWackenier/logimax)
+🔗 [View project](https://github.com/SidneyWackenier/logimax)
 
 ---
 
