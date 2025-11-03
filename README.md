@@ -32,7 +32,7 @@ Key information about the warehouse is displayed through graphs and stat cards.
 - **Tech:** VegaLite, MongoDB, Node.js/Express.js  
 - **Focus:** Full-stack development, data visualistation 
 
-🔗 [View project (coming soon)](#)
+🔗 [View project.]((https://github.com/SidneyWackenier/logimax))
 
 ---
 
