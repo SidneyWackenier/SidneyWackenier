@@ -42,7 +42,7 @@ Includes CRUD operations for books and members, data validation, and persistent 
 - **Tech:** C#, .NET, Entity Framework Core  
 - **Focus:** Object-oriented programming, data modeling, and clean architecture  
 
-🔗 [View project (coming soon)](#)
+🔗 [View project](https://github.com/SidneyWackenier/library)
 
 ---
 
