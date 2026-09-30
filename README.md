@@ -48,5 +48,5 @@ Includes CRUD operations for books and members, data validation, and persistent 
 
 ## 💬 Let’s Connect  
 
-📧 **Email:** [sidney.wackenier@hotmail.com](mailto:sidney.wackenier@hotmail.com)  
+📧 **Email:** [sidney.wackenier@hotmail.com](mailto:sidney.wackenier@outlook.com)  
 💼 **LinkedIn:** [(https://linkedin.com/in/sidneywackenier)](https://www.linkedin.com/in/sidney-wackenier-4b912b211) 
